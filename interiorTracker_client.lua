@@ -9,13 +9,13 @@ relevantInteriors = {
         id = 2,
         groupName = "Rancho tunnel",
         interiors = {
-            {id = 194817, details = "Sunnel, segment 1 (West exit)"},
-            {id = 196353, details = "Sunnel, segment 2 (Southern fork segment 1)"},
-            {id = 195329, details = "Sunnel, segment 3 (Southern fork segment 2)"},
-            {id = 195841, details = "Sunnel, segment 4 (Southern fork segment 3) (East exit)"},
-            {id = 196097, details = "Sunnel, segment 5 (Northern fork segment 1)"},
-            {id = 195073, details = "Sunnel, segment 6 (Northern fork segment 2)"},
-            {id = 195585, details = "Sunnel, segment 7 (Northern fork segment 3) (East exit)"}
+            {id = 194817, details = "Tunnel, segment 1 (West exit)"},
+            {id = 196353, details = "Tunnel, segment 2 (Southern fork segment 1)"},
+            {id = 195329, details = "Tunnel, segment 3 (Southern fork segment 2)"},
+            {id = 195841, details = "Tunnel, segment 4 (Southern fork segment 3) (East exit)"},
+            {id = 196097, details = "Tunnel, segment 5 (Northern fork segment 1)"},
+            {id = 195073, details = "Tunnel, segment 6 (Northern fork segment 2)"},
+            {id = 195585, details = "Tunnel, segment 7 (Northern fork segment 3) (East exit)"}
         }
     },
     {
